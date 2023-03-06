@@ -1,0 +1,12 @@
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\bin\Debug\Redon Text.exe.config
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\bin\Debug\Redon Text.exe
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\bin\Debug\Redon Text.pdb
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\obj\Debug\Redon Text.csproj.AssemblyReference.cache
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\obj\Debug\Redon Text.csproj.SuggestedBindingRedirects.cache
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\obj\Debug\Redon_Text.RedonText.resources
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\obj\Debug\Redon_Text.Properties.Resources.resources
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\obj\Debug\Redon Text.csproj.GenerateResource.cache
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\obj\Debug\Redon Text.csproj.CoreCompileInputs.cache
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\obj\Debug\Redon Text.exe
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\obj\Debug\Redon Text.pdb
+S:\Sourge v1.2\Visual Studio Projects\Redon Text\Redon Text\obj\Debug\Redon_Text.About.resources
