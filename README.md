@@ -1,5 +1,6 @@
 # Redon-Text
-Redon Text is a tool that you can view *.txt files.
+Redon Text is a tool for viewing *.txt files.
+Written in c# with .NET Framework(.NET 4.8).
 
 
 
